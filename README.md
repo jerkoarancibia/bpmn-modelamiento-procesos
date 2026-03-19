@@ -18,3 +18,4 @@ Analizar y mejorar procesos como:
 - BPMN
 - Análisis de procesos de negocio
 - Mejora de flujos operacionales
+
