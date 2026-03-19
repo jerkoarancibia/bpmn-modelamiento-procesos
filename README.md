@@ -11,7 +11,7 @@ Analizar y mejorar procesos clave como:
 
 ## Diagrama BPMN
 
-![Diagrama BPMN](diagrama-bpmn.png)
+![Diagrama BPMN](asian%20music-BPMN/diagrama-bpmn.png)
 
 ## Contenido
 - Documento completo del modelamiento (PDF)
